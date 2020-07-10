@@ -1,0 +1,25 @@
+.button-new-movie {
+	text-align: right;
+}
+
+.btn-max-width {
+	width: 100%;
+}
+
+.btn-icon {
+	background-color: transparent;
+	border: navajowhite;
+	margin: 5px 0;
+}
+
+.div_scroll {
+	scrollbar-width: thin;
+	height: 305px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	padding: 1em;
+}
+
+.action-filmes {
+	padding: .5em !important;
+}
